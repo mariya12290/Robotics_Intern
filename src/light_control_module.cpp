@@ -232,7 +232,7 @@ void LightControlModule::LedFlash(LightControlModule::Animation& animation, sim_
         {
             animation.colorIndex1 = 0;
             animation.tickCount = 0;
-            animation.halfCount = 0; // there is a possibility to remove halfCount!
+            animation.halfCount = 0; 
         }
         else if ((animation.halfCount % static_cast<int>(std::ceil(result))) == 0)
         {
@@ -293,7 +293,7 @@ void LightControlModule::LedPulse(Animation& animation, sim_vector_l ledsHandle)
             }
         }
         animation.tickCount += 1;
-        animation.halfCount += 1; // there is a possibility to remove halfCount everywhere!
+        animation.halfCount += 1; 
 
         auto timeFraction = static_cast<float>(animation.halfCount) / static_cast<float>(result);
 
