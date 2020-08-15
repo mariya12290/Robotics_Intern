@@ -4,7 +4,7 @@
  * ROS msgs
  * @author Aralapura Mariyappa, Surendra Kumar
  * SurendraKumar.AralapuraMariyappa@de.kaercher.com
- * @copyright 2019 Alfred Kaercher GmbH & Co. KG
+ * @copyright 2020 Alfred Kaercher GmbH & Co. KG
  */
 
 #ifndef SIM_CAMERA_SENSOR_HPP
