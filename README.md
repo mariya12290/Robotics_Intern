@@ -6,3 +6,5 @@ Additionally, new features are implemented like cleaning and docking station in 
 
 Finally, light control module prototype was implemented whch was used as a template in real implementation.
 
+Code for straight move planner for the robot is not added in the repo.
+
