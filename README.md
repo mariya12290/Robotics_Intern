@@ -8,3 +8,4 @@ Finally, light control module prototype was implemented whch was used as a templ
 
 Code for straight move planner for the robot is not added in the repo.
 
+Aurcomaker detection code is not added, yet to add.
