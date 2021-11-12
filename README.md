@@ -12,3 +12,6 @@ Code for straight move planner for the robot is not added in the repo(Because of
 Aurcomarker detection code, where aurcomarkers are used as artificial landmarks for localization purpose.
 
 I also contributed in integration of 2D Google SLAM Cartographer into autonomous mobile robot and extension of ROS-Vrep Simulation framework. 
+
+Below one can see the robot on which I worked on.
+![robot](https://user-images.githubusercontent.com/64356491/141488090-ebea158e-60a4-418a-b012-cc4420693e06.png)
