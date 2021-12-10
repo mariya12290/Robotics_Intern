@@ -14,4 +14,4 @@ Aurcomarker detection code, where aurcomarkers are used as artificial landmarks 
 I also contributed in integration of 2D Google SLAM Cartographer into autonomous mobile robot and extension of ROS-Vrep Simulation framework. 
 
 Below one can see the robot on which I worked on.
-![robot](https://user-images.githubusercontent.com/64356491/robot.png)
+![robot](https://github.com/[mariya]/[robotics]/blob/[master]/robot.jpg?raw=true)
