@@ -1,7 +1,8 @@
 /**
  * @file sim/aruco_marker.hpp
  * @brief Aruco markers creation and insertion into simulation
- * @author Vaishnavi Dintakurthi vaishnavi.dintakurthi@de.kaercher.com
+ * @author Aralapura Mariyappa, Surendra Kumar
+ * SurendraKumar.AralapuraMariyappa@de.kaercher.com
  * @copyright 2020 Alfred Kaercher SE & Co. KG
  */
 
