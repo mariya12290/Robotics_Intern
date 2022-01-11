@@ -1,4 +1,4 @@
-# robotics
+# Robotics
 This work is based on my internship at Alfred Kearcher SE &Co. KG
  
 In camera.cpp file, 3D vision sensors code is implemented for the extraction of data, processing data and also for the visualization in rviz.
